@@ -1,0 +1,28 @@
+# Exercícios Java ☕🧩
+
+### Trata-se de um algoritmo de banco executando algumas funções básicas como: Sacar, transferir, depositar e consultar as informações.
+
+
+
+##### Detalhes e exigências: 📖
+
+
+
+- Crie uma Classe Conta com os seguintes atributos:
+  - String correntista;
+  - double saldo;
+  - double limiteSaque;
+
+- Crie os métodos:
+  - sacar;
+  - depositar;
+  - info;
+  - transferir;
+
+##### Resultados esperados:
+
+- Realizar depósitos, saques, transferências entre contas criadas e consultas da conta.
+
+- Saques e transferências devem obedecer:  **Limite** e **Saldo**
+
+- Depósitos: Aceitar apenas valores acima de **zero(0)**.

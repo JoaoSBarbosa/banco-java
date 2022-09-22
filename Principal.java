@@ -14,7 +14,7 @@ public class Principal {
 		Scanner leia = new Scanner(System.in);
 		Conta c3 = new Conta();
 		c3.titular= leia.next();
-		System.out.print("Numero da Conta: ");
+		System.out.print("Número da Conta: ");
 		c3.numero=leia.nextInt();
 		
 		System.out.print("Saldo da Conta: ");
@@ -39,3 +39,4 @@ public class Principal {
 
 	}
 }
+

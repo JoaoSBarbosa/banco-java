@@ -80,9 +80,10 @@ public class Conta {
 	void info() {
 		System.out.println("*************************");
 		System.out.println("Titular da Conta: " + titular);
-		System.out.println("Numero da Conta: " + numero);
+		System.out.println("Número da Conta: " + numero);
 		System.out.println("Saldo atual: " + saldo);
 		System.out.println("Limite: " + limite);
 		System.out.println("*************************");
 	}
 }
+
